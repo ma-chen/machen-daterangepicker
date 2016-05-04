@@ -1,10 +1,7 @@
 # Date Range Picker for Angular and Bootstrap
 
 ## Installation via Bower
-The easiest way to install the picker is:
-```
 Coming soon!  It's not yet registered in bower.
-```
 ## Manual installation
 This directive depends on [Bootstrap Datepicker](https://github.com/dangrossman/bootstrap-daterangepicker), [Bootstrap](http://getbootstrap.com), [Moment.js](http://momentjs.com/) and [jQuery](http://jquery.com/).
 Download dependencies above and then use [minified](js/machen-daterangepicker.min.js) or [normal](machen-daterangepicker.js) version.

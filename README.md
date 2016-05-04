@@ -3,7 +3,7 @@
 ## Installation via Bower
 The easiest way to install the picker is:
 ```
-bower install machen-daterangepicker --save
+Coming soon!  It's not yet registered in bower.
 ```
 ## Manual installation
 This directive depends on [Bootstrap Datepicker](https://github.com/dangrossman/bootstrap-daterangepicker), [Bootstrap](http://getbootstrap.com), [Moment.js](http://momentjs.com/) and [jQuery](http://jquery.com/).
